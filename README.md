@@ -31,6 +31,7 @@ However, classical monolithic approaches via Django views and templates are stil
 - We use:
   - `make` to make our life easier.
   - `.env` files to handle secrets.
+- Database - PostGreSQL with fallback to SqlLite.
 - Containerization aims to support `podman` and `Docker`.
 
 ## Features
