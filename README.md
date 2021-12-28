@@ -15,7 +15,7 @@ However, classical monolithic approaches via Django views and templates are stil
 ## How to use
 - You have to have CookieCutter installed.
   - If you don't, please do `pip install cookiecutter`  
-  - It should be done on your global Python namespace.
+  - It should be done on your global Python namespace.  
     Once is a tool to be used across several projects.
   - For complete information, please refer to CookieCutter documentation: [https://cookiecutter.readthedocs.io/](https://cookiecutter.readthedocs.io/)
 - Install from repository: `cookicutter https://github.com/rtavares/OM-DjangoBluePrint-API-Conteinerized-cookiecutter-template.git`
@@ -25,7 +25,7 @@ However, classical monolithic approaches via Django views and templates are stil
 ## Technical stack
 - `Django Blueprint CookieCutter Template`  has been designed to work on `Python 3.10` and `Django 4`  
   - You can customise it for your specific needs before bootstrapping your new project.
-- Project virtual environment is managed by [Poetry](https://python-poetry.org/)  
+- Project virtual environment is managed by [Poetry](https://python-poetry.org/).  
   - Also have to be installed globally.
   - However, you are free to choose any virtual environment manager you may prefer, onde we will be providing a `requirements.txt` file.    
 - We use:
