@@ -1,7 +1,7 @@
 # Open Minds - Django Blueprint - CookieCutter template
 ### API available and running in Containers
 
-OpenMinds is the "umbrella name" for my pet projects :-) [OpneMinds.zone](http://openminds.zone)
+OpenMinds is the "umbrella name" for my pet projects :-) - [OpenMinds.zone](http://openminds.zone)
 
 ## Project description
 The goal of this project is to provide a fast and easy way to quickly bootstrap a new Python / Django project, ready for you to start working on the specificities of your project.  
